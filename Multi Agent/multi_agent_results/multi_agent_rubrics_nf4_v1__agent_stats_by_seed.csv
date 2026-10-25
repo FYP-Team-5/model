@@ -1,0 +1,5 @@
+split_seed,examples,grader_valid_rate,evaluator_valid_rate,agreement_rate,regrade_rate,final_changed_rate,final_score_changed_rate,feedback_coverage,feedback_valid_rate,feedback_regenerated_rate,resolution_agree,resolution_majority,resolution_two_valid,resolution_single_valid,resolution_invalid,generation_minutes_total,generation_minutes_grader,generation_minutes_feedback,generation_minutes_evaluator,generation_minutes_regrade,generation_minutes_feedback_regenerated
+42,389.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.9717223650385605,0.0,389.0,0,0,0,0,6.2638253866966505,1.1345322943851996,4.16675525064509,0.9625378416663605,0.0,0.0
+123,278.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,278.0,0,0,0,0,3.923987952854562,0.6024914180268145,2.7187798597743194,0.6027166750534282,0.0,0.0
+2026,396.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,0.0,396.0,0,0,0,0,5.971089990010174,0.9679130821200992,4.049319813804403,0.9538570940856719,0.0,0.0
+mean,354.3333333333333,1.0,1.0,1.0,0.0,0.0,0.0,1.0,0.9905741216795202,0.0,354.3333333333333,0,0,0,0,5.386301109853796,0.901645598177371,3.6449516414079377,0.8397038702684868,0.0,0.0
